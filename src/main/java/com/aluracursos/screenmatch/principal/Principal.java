@@ -50,7 +50,7 @@ public class Principal {
                     mostrarSeriesBuscadas();
                     break;
                 case 0:
-                    System.out.println("Cerrando la aplicación!...");
+                    System.out.println("Cerrando la aplicación!..");
                     break;
                 default:
                     System.out.println("Opción inválida");
