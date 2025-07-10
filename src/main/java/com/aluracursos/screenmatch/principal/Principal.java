@@ -29,11 +29,11 @@ public class Principal {
         var opcion = -1;
         while (opcion != 0) {
             var menu = """
-                    1 - Buscar series 
-                    2 - Buscar episodios
-                    3 - Mostrar series buscadas
+                    1 - Buscar series.
+                    2 - Buscar episodios.
+                    3 - Mostrar series buscadas.
                                   
-                    0 - Salir
+                    0 - Salir.
                     """;
             System.out.println(menu);
             opcion = teclado.nextInt();
